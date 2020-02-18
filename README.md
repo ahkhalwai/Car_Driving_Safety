@@ -29,7 +29,7 @@ Collaborators:
 
 | Name | Slack Name |
 | ------------------------- | ------------------------- |
-| [Kubra](https://github.com/) | Kubra | 
+| [Kubra](https://github.com/kubradogmus) | Kubra Doğmuş | 
 | [Lakshmi](https://github.com/) | Lakshmi |
 | [Radhika Joshi](https://github.com/) | Radhika Joshi |
 | [Halwai Aftab Hasan](https://github.com/) | Halwai Aftab Hasan |
