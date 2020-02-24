@@ -1,4 +1,4 @@
-# Action Recognition
+# Car Driving Safety 
 
 Participation in the Intel Edge AI Udacity Scholarship Show Case Group Project  
 * Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/     
