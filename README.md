@@ -31,13 +31,13 @@ Pipeline steps are composed in AsyncPipeline. Every step can be run in separate 
 
 
 
-# References
+## References
 
 * [Action Recognition Models](https://docs.openvinotoolkit.org/latest/usergroup11.html)
 * [Action Recognition Python](https://docs.openvinotoolkit.org/2019_R1/_inference_engine_ie_bridges_python_sample_action_recognition_README.html)
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 
-Collaborators:  
+## Collaborators:  
 
 | Name | Slack Name |
 | ------------------------- | ------------------------- |
