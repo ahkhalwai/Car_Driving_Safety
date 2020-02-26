@@ -3,6 +3,7 @@
 Participation in the Intel Edge AI Udacity Scholarship Show Case Group Project  
 * Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/     
 
+Our story starts from Maximum car accidents in the world.  In the early stages we perform statistical inference to detect action recognition in the video stream to inform us what type of driver level? status in real time. In this showcase project our goal is to extend our learning experience from the Intel Edge AI Scholarship Foundation Course with a hands-on project.   
 
 In this Intel® Edge AI Group showcase project, our goal is to extend our learning experience from Intel® Edge AI Scholarship Foundation Course Nanodegree and Hands-on Implementation from:    
 * Import OpenVINO Toolkit, build and compile successfully on Google Colab.  
