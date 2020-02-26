@@ -34,11 +34,12 @@ Pipeline steps are composed in AsyncPipeline. Every step can be run in separate 
 
 ## Result
 
-| Challenge |                       
+### Challenge                        
 |![][image1] |                
-| Layout |                     
+### Layout                      
 |![][image2] |
-| Output |                     
+
+### Output                      
 |![][image3] |
 
 
