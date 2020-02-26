@@ -48,15 +48,17 @@ Pipeline steps are composed in AsyncPipeline. Every step can be run in separate 
 * [Action Recognition Models](https://docs.openvinotoolkit.org/latest/usergroup11.html)
 * [Action Recognition Python](https://docs.openvinotoolkit.org/2019_R1/_inference_engine_ie_bridges_python_sample_action_recognition_README.html)
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+* [Safe Driving : Driver Action Recognition using SURF Keypoints](https://www.researchgate.net/publication/332824537_Safe_Driving_Driver_Action_Recognition_using_SURF_Keypoints)
+* [Driver Activity Recognition for Intelligent Vehicles: A Deep Learning Approach](https://ieeexplore.ieee.org/document/8678436)
 
 ## Collaborators:  
 
 | Name | Slack Name |
 | ------------------------- | ------------------------- |
-| [Kubra Doğmuş](https://github.com/kubradogmus) | Kubra Doğmuş | 
-| [Lakshmi](https://github.com/) | Lakshmi |
-| [Radhika Joshi](https://github.com/) | Radhika Joshi |
-| [Halwai Aftab Hasan](https://github.com/) | Halwai Aftab Hasan |
+| [Kubra Doğmuş](https://github.com/kubradogmus) | kübra doğmuş | 
+| [Lakshmi Prasannakumar](https://github.com/LakshmiPrasannan) | Lakshmi Prasannakumar |
+| [Radhika Joshi](https://github.com/RadhikaRJ) | Radhika Joshi |
+| [Halwai Aftab Hasan](https://github.com/ahkhalwai) | aftab |
 
 
 
