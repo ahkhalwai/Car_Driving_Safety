@@ -1,5 +1,9 @@
 # Car Driving Safety 
 
+[image1]: ./challenge.jpg    
+[image2]: ./layout.jpg
+[image3]: ./output.jpg
+
 Participation in the Intel Edge AI Udacity Scholarship Show Case Group Project  
 * Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/     
 
@@ -29,6 +33,14 @@ The demo pipeline consists of several frames, namely Data, Encoder, Decoder and 
 Pipeline steps are composed in AsyncPipeline. Every step can be run in separate thread by adding it to the pipeline with parallel=True option. When two consequent steps occur in separate threads, they communicate via message queue (for example, deliver step result or stop signal).
 
 ## Result
+
+Challenge                       
+:-------------------------:|:-------------------------:
+![][image1]                
+Layout                     
+![Result in Taipei City][image2] 
+Output                     
+![Result in India][image3]
 
 
 
